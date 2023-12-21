@@ -4,4 +4,4 @@ The repository is dedicated to the recognition of the state of Go board. In the 
 
 This project was developed for Introduction to CV course at Skoltech.
 
-![alt text](https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/go_detected.jpg?raw=true)
+![alt text](https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/go_detected.png?raw=true)
