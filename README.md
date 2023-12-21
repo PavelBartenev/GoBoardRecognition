@@ -4,6 +4,8 @@ The repository is dedicated to the recognition of the state of Go board. In the 
 
 This project was developed for Introduction to CV course at Skoltech.
 
+Below you can see the examples of board and cells detection and also the metrics of board state estimation.
+
 <p float="left">
   <img src="https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/go_detected.png" width="48%" />
   <img src="https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/cells_detected.png" width="48%" /> 
