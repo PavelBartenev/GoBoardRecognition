@@ -7,8 +7,8 @@ This project was developed for Introduction to CV course at Skoltech.
 Below you can see the examples of board and cells detection and also the metrics of board state estimation.
 
 <p float="left">
-  <img src="https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/go_detected_2.png" width="300" height="300" />
-  <img src="https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/cells_detected_2.png" width="300" height="300" /> 
+  <img src="https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/go_detected_2.png" width="470" height="400" />
+  <img src="https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/cells_detected_2.png" width="470" height="400" /> 
 </p>
 
 
