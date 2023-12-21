@@ -5,7 +5,6 @@ The repository is dedicated to the recognition of the state of Go board. In the 
 This project was developed for Introduction to CV course at Skoltech.
 
 <img src="https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/go_detected.png" width="20%" height="20%">
-
-![alt text](https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/cells_detected.png?raw=true)
-![alt text](https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/metrics_classic.png?raw=true)
-![alt text](https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/metrics_dl.png?raw=true)
+<img src="https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/cells_detected.png" width="20%" height="20%">
+<img src="https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/metrics_classic.png" width="20%" height="20%">
+<img src="https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/metrics_dl.png" width="20%" height="20%">
