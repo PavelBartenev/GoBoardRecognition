@@ -10,5 +10,7 @@ This project was developed for Introduction to CV course at Skoltech.
 </p>
 
 
-<img src="https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/metrics_classic.png" width="20%" height="50%">
-<img src="https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/metrics_dl.png" width="20%" height="20%">
+<p float="left">
+  <img src="https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/metrics_classic.png" width="48%" />
+  <img src="https://github.com/PavelBartenev/GoBoardRecognition/blob/main/images/metrics_dl.png" width="48%" /> 
+</p>
